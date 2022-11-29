@@ -25,6 +25,7 @@ body{
     border: solid rgb(12, 12, 12);
     border-top-left-radius: 22px;
     border-top-right-radius: 22px;
+    min-height: 50px;
 }
 
 .buttonContainer{
